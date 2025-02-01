@@ -2,6 +2,13 @@ from icecream import ic
 import locale
 locale.setlocale(locale.LC_ALL, '')
 
+
+class Data:
+    pass
+
+
+
+
 class capital_structure:
     """_summary_
     """
