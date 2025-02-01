@@ -4,7 +4,16 @@ locale.setlocale(locale.LC_ALL, '')
 
 
 class Data:
-    pass
+    total_assets = " "
+    fixed = ""
+    current_assets= " "
+    liabilities = " "
+    self_foreign = " "
+    short_term_foreign_funds = ""
+    long_term_foreign_capital= ""
+    interest_rate = ""
+    market_capitalization_of_equity = ""
+    tax_rate = " "
 
 
 
